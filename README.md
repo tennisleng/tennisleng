@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tennisleng 
 - 👀 I’m interested in creating cool projects.
-- 🌱 I’m currently learning about java, python, and machine learning.
+- 🌱 I’m currently learning about javascript, python, and machine learning.
 
 <!---
 tennisleng/tennisleng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
