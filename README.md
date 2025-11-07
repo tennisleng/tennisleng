@@ -1,30 +1,40 @@
 # Hi, I'm Andrew Leng 👋
 
-**Software Developer | Full-Stack Enthusiast | Continuous Learner**
+**Software Developer | Full-Stack Enthusiast | Robotics & VR Enthusiast**
 
-Welcome to my GitHub profile! I'm passionate about building innovative software solutions and exploring new technologies. Currently focused on developing full-stack applications and expanding my skills in modern development practices.
+Welcome to my GitHub profile! I'm passionate about building innovative software solutions across web development, robotics, VR, and AI. Currently exploring full-stack applications, robotic systems, and machine learning projects.
 
 ## 🚀 Featured Projects
 
 ### 🌤️ [Weather App](https://github.com/tennisleng/weather-app)
-A Spring Boot REST API service that integrates with OpenWeatherMap API to provide real-time weather data. Built with Java, Spring Boot, JPA, and H2 database.
+A Spring Boot REST API service that integrates with OpenWeatherMap API to provide real-time weather data. Features JPA persistence, reactive programming with WebFlux, and H2 database integration.
 
-**Tech Stack:** Java, Spring Boot, REST API, JPA, H2 Database
+**Tech Stack:** Java, Spring Boot, REST API, JPA, Spring WebFlux, H2 Database
 
-### 🤖 [Phase 4 Project](https://github.com/tennisleng/phase4proj)
-Large-scale Python project showcasing advanced development skills and problem-solving capabilities.
+### ✈️ [Flight Tracking System](https://github.com/tennisleng/phase4proj)
+A comprehensive Flask REST API backend for managing flight tracking and airline operations. Integrates with MySQL using stored procedures for complex business logic, with endpoints for flight management, passenger operations, and simulation cycles.
 
-**Tech Stack:** Python, PowerShell, Shell Scripting
+**Tech Stack:** Python, Flask, MySQL, REST API, Stored Procedures, CORS
 
 ### 🥽 [OculusROS](https://github.com/tennisleng/OculusROS)
-ROS (Robot Operating System) integration project for Oculus VR devices, demonstrating expertise in C++ and robotics software development.
+A ROS package for controlling robotic arms using Oculus VR controllers. Features network latency monitoring, web-based visualization dashboards, safety systems, and trajectory control algorithms.
 
-**Tech Stack:** C++, Python, ROS, CMake, JavaScript, HTML
+**Tech Stack:** C++, Python, ROS Noetic, CMake, JavaScript, HTML, Oculus SDK
 
-### 💼 [Remote Work](https://github.com/tennisleng/remotework)
-Full-stack application exploring remote work solutions and collaboration tools.
+### 🔌 [VR to ROS Bridge](https://github.com/tennisleng/remotework)
+A Python application that bridges Oculus VR hardware to ROS by reading VR controller and headset pose data, converting OpenVR matrices to ROS messages, and publishing to ROS topics via WebSocket/ROSBridge. Includes Unity C# integration.
 
-**Tech Stack:** Python, C#
+**Tech Stack:** Python, OpenVR, WebSocket, ROSBridge, NumPy, SciPy, Unity C#
+
+### 🐍 [Slither.io AI Bot](https://github.com/tennisleng/slitherioAIFinal)
+An AI implementation for the Slither.io game featuring a Python-based bot with machine learning capabilities for autonomous gameplay.
+
+**Tech Stack:** Python, Machine Learning, Game AI
+
+### 🎨 [AI Draw with Circles](https://github.com/tennisleng/AI-DrawWithCircles-v5)
+An AI-powered drawing application that creates artwork using circles, demonstrating creative applications of AI and computer graphics.
+
+**Tech Stack:** JavaScript, AI, Computer Graphics, Canvas API
 
 ## 💻 Technologies & Tools
 
@@ -34,18 +44,22 @@ Full-stack application exploring remote work solutions and collaboration tools.
 - JavaScript/TypeScript
 - C++
 - C#
+- VHDL
 
 **Frameworks & Libraries:**
 - Spring Boot
-- React
-- Node.js
+- Flask
 - ROS (Robot Operating System)
+- OpenVR
+- NumPy, SciPy
 
 **Tools & Platforms:**
 - Git/GitHub
-- Docker
+- MySQL
 - REST APIs
-- Database Design (SQL, H2)
+- WebSocket
+- ROSBridge
+- Unity
 
 ## 📊 GitHub Stats
 
@@ -57,7 +71,7 @@ Full-stack application exploring remote work solutions and collaboration tools.
 
 - Advanced Spring Boot patterns and microservices architecture
 - Machine Learning and AI applications
-- Cloud computing and DevOps practices
+- Robotics and VR integration
 - Full-stack development best practices
 
 ## 📫 Connect With Me
@@ -67,9 +81,10 @@ Full-stack application exploring remote work solutions and collaboration tools.
 
 ## 💡 Fun Facts
 
+- Passionate about robotics and VR applications
+- Love building projects that bridge hardware and software
 - Always exploring new technologies and frameworks
-- Passionate about clean code and best practices
-- Love building projects that solve real-world problems
+- Interested in AI/ML applications in gaming and creative tools
 
 ---
 
